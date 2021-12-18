@@ -20,7 +20,7 @@ export default class SearchVideos extends React.Component {
         <form onSubmit={this.onFormSubmitting} className="ui form">
           <div className="ui input focus">
             <label>
-              Search Videos
+              Search Videos fast
               <input
                 type="text"
                 placeholder="Search..."
