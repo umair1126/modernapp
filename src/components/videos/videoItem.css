@@ -1,0 +1,10 @@
+.video-item {
+  display: flex;
+  align-items: center;
+  margin: 8px 0px;
+  cursor: pointer;
+}
+
+.title {
+  margin-left: 5px;
+}
